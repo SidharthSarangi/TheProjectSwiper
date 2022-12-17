@@ -1,0 +1,4 @@
+backend/node_modules
+backend/.gitignore
+socket/node_modules
+socket/.gitignore
